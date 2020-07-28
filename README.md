@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi there , I'm Gaurav 👋
 
-<!--
-**gauravgutholia/gauravgutholia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Gaurav Gutholia, a Full Stack Web developer.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on ecommerce  site
+- 🌱 I’m currently learning reactjs nodejs mongoDB
+- 👯 I’m looking to collaborate on Creating Content!
+- 🤔 I’m looking for help with Design
+- 💬 Ask me about java and full stack development
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: he
+
+🏡 [website][website] **|** 
+🐦 [twitter][twitter] **|** 
+📺 [youtube][youtube] **|** 
+🎥 [twitch][twitch] **|** 
+📦 [npm][npm] **|** 
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin]
+
+
+
+[instagram]: https://www.instagram.com/code_me_coder/y
+[linkedin]: https://www.linkedin.com/in/gaurav-gutholia-25615a1a1/
+[npm]: https://npmjs.com/~gauravgutholia
