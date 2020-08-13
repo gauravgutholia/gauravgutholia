@@ -1,6 +1,6 @@
 ### Hi there , I'm Gaurav 👋
 
-Hi, I'm Gaurav Gutholia, a Full Stack Web developer.
+Hi, I'm Gaurav Gutholia, a Front end  Web developer.
 
 - 🔭 I’m currently working on ecommerce  site
 - 🌱 I’m currently learning reactjs, nodejs, mongoDB
