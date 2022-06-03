@@ -1,12 +1,6 @@
 ### Hi there , I'm Gaurav 👋
 
-Hi, I'm Gaurav Gutholia, a Front end  Web developer.
-
-- 🔭 I’m currently working on ecommerce  site
-- 🌱 I’m currently learning reactjs
-- 👯 I’m looking to collaborate on Creating Content!
-- 🤔 I’m looking for help with Design
-- 💬 Ask me about java and full stack development
+Hi, I'm Gaurav Gutholia
 - 😄 Pronouns: he
 
 🏡 [website][website] **|** 
